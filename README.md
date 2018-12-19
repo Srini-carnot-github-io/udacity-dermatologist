@@ -1,4 +1,6 @@
 
+Udacity-ML-capstone
+This github repo contains my final project for Udacity's Machine Learning Nanodegree.
 The goal of the challenge is to develop image analysis tools to enable the automated diagnosis of melanoma from dermoscopic images. The main objective is to design an algorithm that can visually diagnose melanoma, the deadliest form of skin cancer. Our algorithm will distinguish this malignant skin tumor from two types of benign lesions (nevi and seborrheic keratoses). The data and objective are pulled from the 2017 ISIC Challenge on Skin Lesion Analysis Towards Melanoma Detection. As part of the challenge, participants were tasked to design an algorithm to diagnose skin lesion images as one of three different skin diseases (melanoma, nevus, or seborrheic keratosis). In this project, we will create a model to generate our own predictions.
 Datasets and Input
 The data is pulled from the 2017 ISIC Challenge on Skin Lesion Analysis Towards Melanoma Detection of International Skin Imaging Collaboration.
